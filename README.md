@@ -1,5 +1,7 @@
 # Timeflow
 
+![](timeflow.gif)
+
 My entry to the flutter create challenge by google. It won best overall performance :).
 https://flutter.dev/create
 
