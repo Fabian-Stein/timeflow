@@ -24,8 +24,10 @@ when finished/startscreen:
 ## Packages
 
 1. Numberpicker for choosing the duration of the Timer
+  https://pub.dev/packages/numberpicker
 
 2. Screen so that the screen stays awake during the animation
+  https://pub.dev/packages/screen
 
 ## Code description
 
